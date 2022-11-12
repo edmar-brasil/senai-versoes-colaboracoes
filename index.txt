@@ -4,9 +4,3 @@
     <H1> GIT </H1>
 </BODY>
 </HTML>
-
-
-https://github.com/edmar-brasil/senai-versoes-colaboracoes
-
-
-
