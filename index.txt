@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 <HTML>
 <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
 <BODY>
     <H1> TÍTULO1 </H1>
 </BODY>
 </HTML>
+=======
+
+>>>>>>> 9f7ff658f37528d0f43a8a807f0bc97e3dce9397
